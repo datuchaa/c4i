@@ -1,0 +1,19 @@
+{
+  "name": "typescript-config-base",
+  "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datuchaa/typescript-config"
+  },
+  "keywords": [
+    "typescript",
+    "config",
+    "typescript-config",
+    "typescript-config-base"
+  ]
+}
