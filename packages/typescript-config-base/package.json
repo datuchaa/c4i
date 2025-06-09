@@ -1,5 +1,5 @@
 {
-  "name": "typescript-config-base",
+  "name": "c4i-ts-base",
   "version": "0.0.0",
   "private": false,
   "license": "MIT",
@@ -14,6 +14,7 @@
     "typescript",
     "config",
     "typescript-config",
-    "typescript-config-base"
+    "typescript-config-base",
+    "c4i"
   ]
 }
