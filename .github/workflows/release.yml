@@ -35,6 +35,4 @@ jobs:
           setupGitUser: false
           commitMode: github-api
           publish: pnpm release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
   
