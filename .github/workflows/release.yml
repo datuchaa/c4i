@@ -32,7 +32,5 @@ jobs:
       - name: Create Release Pull Request
         uses: changesets/action@v1
         with:
-          setupGitUser: false
-          commitMode: github-api
           publish: pnpm release
   
