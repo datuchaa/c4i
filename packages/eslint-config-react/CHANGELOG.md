@@ -1,5 +1,11 @@
 # c4i-eslint-react
 
+## 1.1.1
+
+### Patch Changes
+
+- fdf4574: Fix label for dependencies
+
 ## 1.1.0
 
 ### Minor Changes
