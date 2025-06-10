@@ -1,0 +1,21 @@
+{
+  "name": "c4i-prettier-config-base",
+  "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datuchaa/c4i"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "prettier-config",
+    "prettier-config-base",
+    "c4i"
+  ],
+  "main": "index.js"
+}
