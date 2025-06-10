@@ -1,0 +1,27 @@
+{
+  "name": "c4i-eslint-react",
+  "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/datuchaa/c4i"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslint-config",
+    "eslint-config-react",
+    "c4i"
+  ],
+  "devDependencies": {
+    "eslint-config-turbo": "^1.12.4",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-only-warn": "^1.1.0",
+    "@typescript-eslint/parser": "^7.1.0",
+    "@typescript-eslint/eslint-plugin": "^7.1.0"
+  }
+}
