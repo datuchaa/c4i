@@ -1,5 +1,11 @@
 # c4i-eslint-react
 
+## 1.2.0
+
+### Minor Changes
+
+- 45b876f: Add eslint-plugin-turbo
+
 ## 1.1.1
 
 ### Patch Changes
