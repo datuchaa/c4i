@@ -23,5 +23,8 @@
     "eslint-plugin-only-warn": "^1.1.0",
     "@typescript-eslint/parser": "^7.1.0",
     "@typescript-eslint/eslint-plugin": "^7.1.0"
+  },
+  "peerDependencies": {
+    "eslint-plugin-turbo": "1.13.4"
   }
 }
