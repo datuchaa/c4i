@@ -1,5 +1,11 @@
 # c4i-eslint-react
 
+## 1.1.0
+
+### Minor Changes
+
+- 7f6aa2c: Update required dependencies
+
 ## 1.0.1
 
 ### Patch Changes
