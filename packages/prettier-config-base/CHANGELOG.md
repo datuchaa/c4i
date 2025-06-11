@@ -1,5 +1,11 @@
 # c4i-prettier-config-base
 
+## 1.0.0
+
+### Major Changes
+
+- 29016ee: Add prettier rules
+
 ## 0.0.1
 
 ### Patch Changes
