@@ -1,5 +1,11 @@
 # c4i-ts-base
 
+## 2.2.0
+
+### Minor Changes
+
+- 6f9e424: Update node base configuration
+
 ## 2.1.0
 
 ### Minor Changes
