@@ -1,5 +1,12 @@
 # c4i-ts-react
 
+## 1.1.1
+
+### Patch Changes
+
+- Updated dependencies [6f9e424]
+  - c4i-ts-base@2.2.0
+
 ## 1.1.0
 
 ### Minor Changes
