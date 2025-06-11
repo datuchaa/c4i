@@ -1,5 +1,11 @@
 # c4i-prettier-config-base
 
+## 1.1.0
+
+### Minor Changes
+
+- a9c87fe: Update src file names
+
 ## 1.0.0
 
 ### Major Changes
