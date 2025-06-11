@@ -17,5 +17,5 @@
     "prettier-config-base",
     "c4i"
   ],
-  "main": "index.js"
+  "main": "prettier-config-base.js"
 }
