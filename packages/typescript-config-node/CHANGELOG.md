@@ -1,5 +1,13 @@
 # c4i-ts-node
 
+## 1.0.2
+
+### Patch Changes
+
+- 11590d6: Update dependencies
+- Updated dependencies [11590d6]
+  - c4i-ts-base@2.2.1
+
 ## 1.0.1
 
 ### Patch Changes
