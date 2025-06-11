@@ -13,12 +13,14 @@
   "dependencies": {
     "c4i-ts-base": "workspace:*"
   },
+  "devDependencies": {
+    "c4i-prettier-config-base": "workspace:*"
+  },
   "keywords": [
     "typescript",
     "config",
     "typescript-config-react",
     "typescript-config-react-base",
     "c4i"
-  ],
-  "main": "typescript-config-react.json"
+  ]
 }

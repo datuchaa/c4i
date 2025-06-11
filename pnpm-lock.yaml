@@ -42,16 +42,28 @@ importers:
       eslint-plugin-turbo:
         specifier: ^2.5.4
         version: 2.5.4(eslint@8.57.1)(turbo@2.5.4)
+    devDependencies:
+      c4i-prettier-config-base:
+        specifier: workspace:*
+        version: link:../prettier-config-base
 
   packages/prettier-config-base: {}
 
-  packages/typescript-config-base: {}
+  packages/typescript-config-base:
+    devDependencies:
+      c4i-prettier-config-base:
+        specifier: workspace:*
+        version: link:../prettier-config-base
 
   packages/typescript-config-react:
     dependencies:
       c4i-ts-base:
         specifier: workspace:*
         version: link:../typescript-config-base
+    devDependencies:
+      c4i-prettier-config-base:
+        specifier: workspace:*
+        version: link:../prettier-config-base
 
 packages:
 
