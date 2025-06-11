@@ -1,5 +1,11 @@
 # c4i-ts-base
 
+## 2.0.0
+
+### Major Changes
+
+- c3ab45f: Add typescript-config-react
+
 ## 1.1.0
 
 ### Minor Changes
