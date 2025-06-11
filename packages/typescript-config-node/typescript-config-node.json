@@ -1,0 +1,9 @@
+{
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Node Library",
+    "extends": "c4i-ts-base/typescript-config-base.json",
+    "compilerOptions": {
+      "lib": ["ESNext"]
+    }
+  }
+  
