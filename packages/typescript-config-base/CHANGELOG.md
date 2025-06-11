@@ -1,5 +1,11 @@
 # c4i-ts-base
 
+## 2.1.0
+
+### Minor Changes
+
+- f6d0151: Update formating
+
 ## 2.0.0
 
 ### Major Changes

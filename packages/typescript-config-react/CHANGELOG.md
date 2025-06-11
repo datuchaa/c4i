@@ -1,5 +1,16 @@
 # c4i-ts-react
 
+## 1.1.0
+
+### Minor Changes
+
+- f6d0151: Update formating
+
+### Patch Changes
+
+- Updated dependencies [f6d0151]
+  - c4i-ts-base@2.1.0
+
 ## 1.0.0
 
 ### Major Changes
