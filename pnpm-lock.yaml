@@ -43,7 +43,7 @@ importers:
         specifier: ^2.5.4
         version: 2.5.4(eslint@8.57.1)(turbo@2.5.4)
     devDependencies:
-      c4i-prettier-config-base:
+      c4i-prettier:
         specifier: workspace:*
         version: link:../prettier-config-base
 
@@ -51,7 +51,7 @@ importers:
 
   packages/typescript-config-base:
     devDependencies:
-      c4i-prettier-config-base:
+      c4i-prettier:
         specifier: workspace:*
         version: link:../prettier-config-base
 
@@ -61,7 +61,7 @@ importers:
         specifier: workspace:*
         version: link:../typescript-config-base
     devDependencies:
-      c4i-prettier-config-base:
+      c4i-prettier:
         specifier: workspace:*
         version: link:../prettier-config-base
 
@@ -71,7 +71,7 @@ importers:
         specifier: workspace:*
         version: link:../typescript-config-base
     devDependencies:
-      c4i-prettier-config-base:
+      c4i-prettier:
         specifier: workspace:*
         version: link:../prettier-config-base
 

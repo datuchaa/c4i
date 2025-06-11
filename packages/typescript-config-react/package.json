@@ -14,7 +14,7 @@
     "c4i-ts-base": "workspace:*"
   },
   "devDependencies": {
-    "c4i-prettier-config-base": "workspace:*"
+    "c4i-prettier": "workspace:*"
   },
   "keywords": [
     "typescript",

@@ -24,7 +24,7 @@
     "eslint-plugin-only-warn": "^1.1.0"
   },
   "devDependencies": {
-    "c4i-prettier-config-base": "workspace:*"
+    "c4i-prettier": "workspace:*"
   },
   "peerDependencies": {
     "eslint": "^8.57.0"
