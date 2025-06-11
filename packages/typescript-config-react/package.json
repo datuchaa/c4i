@@ -16,8 +16,9 @@
   "keywords": [
     "typescript",
     "config",
-    "typescript-config",
-    "typescript-config-base",
+    "typescript-config-react",
+    "typescript-config-react-base",
     "c4i"
-  ]
+  ],
+  "main": "typescript-config-react.json"
 }
