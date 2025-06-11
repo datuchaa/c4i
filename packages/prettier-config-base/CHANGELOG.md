@@ -1,5 +1,11 @@
 # c4i-prettier-config-base
 
+## 2.0.0
+
+### Major Changes
+
+- 95466d9: Update name for prettier package
+
 ## 1.1.0
 
 ### Minor Changes
