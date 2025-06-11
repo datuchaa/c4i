@@ -55,6 +55,16 @@ importers:
         specifier: workspace:*
         version: link:../prettier-config-base
 
+  packages/typescript-config-node:
+    dependencies:
+      c4i-ts-base:
+        specifier: workspace:*
+        version: link:../typescript-config-base
+    devDependencies:
+      c4i-prettier-config-base:
+        specifier: workspace:*
+        version: link:../prettier-config-base
+
   packages/typescript-config-react:
     dependencies:
       c4i-ts-base:
