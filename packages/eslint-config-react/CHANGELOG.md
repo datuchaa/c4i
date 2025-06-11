@@ -1,5 +1,11 @@
 # c4i-eslint-react
 
+## 1.4.0
+
+### Minor Changes
+
+- f6d0151: Update formating
+
 ## 1.3.0
 
 ### Minor Changes
