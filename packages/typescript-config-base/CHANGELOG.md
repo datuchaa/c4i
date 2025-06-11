@@ -1,5 +1,11 @@
 # c4i-ts-base
 
+## 2.2.1
+
+### Patch Changes
+
+- 11590d6: Update dependencies
+
 ## 2.2.0
 
 ### Minor Changes
