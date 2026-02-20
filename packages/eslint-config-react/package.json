@@ -3,6 +3,7 @@
   "version": "1.4.1",
   "private": false,
   "license": "MIT",
+  "type": "module",
   "publishConfig": {
     "access": "public"
   },
@@ -17,16 +18,26 @@
     "eslint-config-react",
     "c4i"
   ],
-  "dependencies": {
-    "eslint-config-turbo": "^2.5.4",
-    "eslint-plugin-turbo": "^2.5.4",
-    "eslint-config-prettier": "^10.1.5",
-    "eslint-plugin-only-warn": "^1.1.0"
-  },
   "devDependencies": {
-    "c4i-prettier": "workspace:*"
+    "@eslint/js": "^9.0.0",
+    "c4i-eslint-node": "workspace:*",
+    "c4i-prettier": "workspace:*",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^10.0.0",
+    "react": "^19.2.4",
+    "typescript-eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^17.3.0"
   },
   "peerDependencies": {
-    "eslint": "^8.57.0"
+    "@eslint/js": "^9.0.0",
+    "c4i-eslint-node": "^2.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^10.0.0",
+    "typescript-eslint": "^8.0.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "globals": "^17.3.0"
   }
 }
