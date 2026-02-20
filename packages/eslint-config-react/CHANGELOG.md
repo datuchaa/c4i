@@ -1,5 +1,16 @@
 # c4i-eslint-react
 
+## 2.0.0
+
+### Major Changes
+
+- 4e77c59: Migrate eslint from V8 to v9
+
+### Patch Changes
+
+- Updated dependencies [4e77c59]
+  - c4i-eslint-node@2.0.0
+
 ## 1.4.1
 
 ### Patch Changes
