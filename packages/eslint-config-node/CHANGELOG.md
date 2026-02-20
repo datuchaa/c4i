@@ -1,5 +1,11 @@
 # c4i-eslint-node
 
+## 3.0.0
+
+### Major Changes
+
+- 4886ad5: Migrate eslint from V8 to v9
+
 ## 2.0.0
 
 ### Major Changes
