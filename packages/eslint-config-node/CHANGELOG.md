@@ -1,5 +1,11 @@
 # c4i-eslint-node
 
+## 2.5.0
+
+### Minor Changes
+
+- 6e8071a: Update ESLint configuration to disable additional TypeScript rules for improved flexibility
+
 ## 2.4.0
 
 ### Minor Changes
