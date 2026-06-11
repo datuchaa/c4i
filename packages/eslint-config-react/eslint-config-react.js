@@ -19,7 +19,7 @@ export const config = [
     ],
   },
   js.configs.recommended,
-  tseslint.configs.base,
+  ...tseslint.configs.recommended,
   eslintConfigPrettier,
   pluginReact.configs.flat['jsx-runtime'],
   {
@@ -38,6 +38,7 @@ export const config = [
     settings: { react: { version: 'detect' } },
     rules: {
       ...pluginReactHooks.configs.recommended.rules,
+      '@typescript-eslint/no-unused-vars': 'off',
     },
   },
 ];
