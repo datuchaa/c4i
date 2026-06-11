@@ -16,7 +16,7 @@ export const config = [
     ],
   },
   js.configs.recommended,
-  ...tseslint.configs.recommended,
+  ...tseslint.configs.base,
   eslintConfigPrettier,
 ];
 
