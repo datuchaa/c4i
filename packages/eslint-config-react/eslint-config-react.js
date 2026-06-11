@@ -21,10 +21,10 @@ export const config = [
   js.configs.recommended,
   ...tseslint.configs.recommended,
   eslintConfigPrettier,
-  pluginReact.configs.flat.recommended,
+  pluginReact.configs.flat['jsx-runtime'],
   {
     languageOptions: {
-      ...pluginReact.configs.flat.recommended.languageOptions,
+      ...pluginReact.configs.flat['jsx-runtime'].languageOptions,
       globals: {
         ...globals.serviceworker,
         ...globals.browser,
@@ -38,6 +38,7 @@ export const config = [
     settings: { react: { version: 'detect' } },
     rules: {
       ...pluginReactHooks.configs.recommended.rules,
+      '@typescript-eslint/no-unused-vars': 'off',
     },
   },
 ];
