@@ -1,5 +1,11 @@
 # c4i-eslint-node
 
+## 2.2.0
+
+### Minor Changes
+
+- 949c1f3: Refactor ESLint configuration to use 'base' settings from typescript-eslint and remove unused ignore patterns
+
 ## 2.1.0
 
 ### Minor Changes
