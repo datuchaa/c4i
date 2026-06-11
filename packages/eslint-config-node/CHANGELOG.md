@@ -1,5 +1,11 @@
 # c4i-eslint-node
 
+## 2.4.0
+
+### Minor Changes
+
+- e11550f: Refactor ESLint configuration for Node and React to use recommended settings from typescript-eslint
+
 ## 2.3.0
 
 ### Minor Changes
