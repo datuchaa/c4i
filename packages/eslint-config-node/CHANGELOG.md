@@ -1,5 +1,11 @@
 # c4i-eslint-node
 
+## 2.3.0
+
+### Minor Changes
+
+- 7998cd5: Refactor ESLint configuration for React to include ignore patterns and streamline TypeScript integration
+
 ## 2.2.0
 
 ### Minor Changes
