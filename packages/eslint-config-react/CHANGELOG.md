@@ -1,5 +1,17 @@
 # c4i-eslint-react
 
+## 3.0.0
+
+### Minor Changes
+
+- c8b3f7d: Add ignore patterns
+
+### Patch Changes
+
+- 0c7d125: Disable react-in-jsx-scope rule
+- Updated dependencies [c8b3f7d]
+  - c4i-eslint-node@2.1.0
+
 ## 2.0.0
 
 ### Major Changes

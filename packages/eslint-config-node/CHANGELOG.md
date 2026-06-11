@@ -1,5 +1,11 @@
 # c4i-eslint-node
 
+## 2.1.0
+
+### Minor Changes
+
+- c8b3f7d: Add ignore patterns
+
 ## 2.0.0
 
 ### Major Changes
