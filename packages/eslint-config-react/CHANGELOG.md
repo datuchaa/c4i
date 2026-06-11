@@ -1,5 +1,11 @@
 # c4i-eslint-react
 
+## 4.3.0
+
+### Minor Changes
+
+- 29008a1: Update ESLint configuration to disable additional TypeScript rules for better flexibility
+
 ## 4.2.0
 
 ### Minor Changes
