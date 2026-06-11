@@ -1,5 +1,11 @@
 # c4i-eslint-react
 
+## 3.0.1
+
+### Patch Changes
+
+- 81dfac3: Update ESLint configuration to use 'jsx-runtime' for React and disable '@typescript-eslint/no-unused-vars' rule
+
 ## 3.0.0
 
 ### Minor Changes
